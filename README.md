@@ -1,11 +1,18 @@
-### Hi there 👋
+Hi there 👋 Welcome to my github account. I'm a motivated & result driven Bachelor of Computer Applications, enthusiastic about technology & Computer Science. I am looking further to enhance my professional career in a challenging work environment to utilize my knowledge and skills for organizational growth. I am passionate about Data Science & Big Data, new trends & ready to acquire software based knowledge.
 
-<!--
-**shubhamrkhule/shubhamrkhule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Machine Learning & Deep Learning projects and technologies such as: 
+HTML || Python || C || C++ || R || Scala || PySpark || SQL || Hadoop || Tableau || Power Bi || Pig || Hive || Excel || Weka || Matlab || Blockchain || Big Data || Artificial Intelligence || Machine Learning || Computer Vision ||
 
-- 🔭 I’m currently working on Machine Learning & Deep Learning projects!!!
+To spread my knowledge in the space of data science, and to inspire budding data scientists, he writes blogs related to data science on his website : https://medium.com/@shubhamrkhule.
+
+I am an ardent reader and contribute to the open-source community: https://github.com/shubhamrkhule
+
+Besides being a data junkie, I am a fitness freak and loves travelling.
+Follow me on instagram to know more: https://www.instagram.com/shubham.khule/
+
+I enjoy meeting new people and hearing new perspectives. I'm a constant learner & strive for progressive development.
+
 - 🌱 I’m currently learning a post-graduate degree in Data Science & Big Data Analytics at MIT, Pune.
 - 👯 I’m looking to collaborate on a beginner level projects & hackathons.
 - 🤔 I’m looking for help with the field of coding & analytics.
