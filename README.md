@@ -4,6 +4,7 @@ Welcome to my github account. I'm a motivated & result driven Bachelor of Comput
 
 
 - 🔭 I’m currently working on Machine Learning & Deep Learning projects with technologies such as:<br>
+
 HTML || Python || C || C++ || R || Scala || PySpark || SQL || Hadoop || Tableau || Power Bi || Pig || Hive || Excel || Weka || Matlab || Blockchain || Big Data || Artificial Intelligence || Machine Learning || Computer Vision ||
 
 To spread my knowledge in the space of data science, and to inspire budding data scientists, he writes blogs related to data science on his website : https://medium.com/@shubhamrkhule.
