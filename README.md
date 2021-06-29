@@ -7,12 +7,13 @@ Welcome to my github account. I'm a motivated & result driven Bachelor of Comput
 
 HTML || Python || C || C++ || R || Scala || PySpark || SQL || Hadoop || Tableau || Power Bi || Pig || Hive || Excel || Weka || Matlab || Blockchain || Big Data || Artificial Intelligence || Machine Learning || Computer Vision ||
 
-To spread my knowledge in the space of data science, and to inspire budding data scientists, I write blogs related to data science on my website : https://medium.com/@shubhamrkhule.
+To spread my knowledge in the space of data science, and to inspire budding data scientists,<br>
+I write blogs related to data science on my website : https://medium.com/@shubhamrkhule.
 
 I am an ardent reader and contribute to the open-source community: https://github.com/shubhamrkhule
 
-Besides being a data junkie, I am a fitness freak and loves travelling.
-Follow me on instagram to know more: https://www.instagram.com/shubham.khule/
+Besides being a data junkie, I am a fitness freak and loves travelling.<br>
+Follow me on instagram to know more at: https://www.instagram.com/shubham.khule/
 
 Connect with me on LinkedIn at: https://www.linkedin.com/in/shubhamrkhule/
 
