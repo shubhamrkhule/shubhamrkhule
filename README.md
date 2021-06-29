@@ -7,7 +7,7 @@ Welcome to my github account. I'm a motivated & result driven Bachelor of Comput
 
 HTML || Python || C || C++ || R || Scala || PySpark || SQL || Hadoop || Tableau || Power Bi || Pig || Hive || Excel || Weka || Matlab || Blockchain || Big Data || Artificial Intelligence || Machine Learning || Computer Vision ||
 
-To spread my knowledge in the space of data science, and to inspire budding data scientists, he writes blogs related to data science on his website : https://medium.com/@shubhamrkhule.
+To spread my knowledge in the space of data science, and to inspire budding data scientists, I write blogs related to data science on my website : https://medium.com/@shubhamrkhule.
 
 I am an ardent reader and contribute to the open-source community: https://github.com/shubhamrkhule
 
@@ -21,7 +21,7 @@ I enjoy meeting new people and hearing new perspectives. I'm a constant learner 
 - 🌱 I’m currently learning a post-graduate degree in Data Science & Big Data Analytics at MIT, Pune.
 - 👯 I’m looking to collaborate on a beginner level projects & hackathons.
 - 🤔 I’m looking for help with the field of coding & analytics.
-- 💬 Ask me about Astronomy, Nutrition, Movies & much more...
+- 💬 Ask me about Astronomy, Nutrition, Movies & much more!!! 
 - 📫 How to reach me: shubham99.khule@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm unstoppable :)
