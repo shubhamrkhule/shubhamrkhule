@@ -13,13 +13,15 @@ I am an ardent reader and contribute to the open-source community: https://githu
 Besides being a data junkie, I am a fitness freak and loves travelling.
 Follow me on instagram to know more: https://www.instagram.com/shubham.khule/
 
+Connect with me on LinkedIn at: https://www.linkedin.com/in/shubhamrkhule/
+
 I enjoy meeting new people and hearing new perspectives. I'm a constant learner & strive for progressive development.
 
 - 🌱 I’m currently learning a post-graduate degree in Data Science & Big Data Analytics at MIT, Pune.
 - 👯 I’m looking to collaborate on a beginner level projects & hackathons.
 - 🤔 I’m looking for help with the field of coding & analytics.
-- 💬 Ask me about Astronomy,Nutrition,Movies & much more...
+- 💬 Ask me about Astronomy, Nutrition, Movies & much more...
 - 📫 How to reach me: shubham99.khule@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm unstoppable :)
--->
+
