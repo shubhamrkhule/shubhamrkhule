@@ -1,4 +1,6 @@
-Hi there 👋 Welcome to my github account. I'm a motivated & result driven Bachelor of Computer Applications, enthusiastic about technology & Computer Science. I am looking further to enhance my professional career in a challenging work environment to utilize my knowledge and skills for organizational growth. I am passionate about Data Science & Big Data, new trends & ready to acquire software based knowledge.
+Hi, I'm Shubham Khule 👋 
+
+Welcome to my github account. I'm a motivated & result driven Bachelor of Computer Applications, enthusiastic about technology & Computer Science. I am looking further to enhance my professional career in a challenging work environment to utilize my knowledge and skills for organizational growth. I am passionate about Data Science & Big Data, new trends & ready to acquire software based knowledge.
 
 
 - 🔭 I’m currently working on Machine Learning & Deep Learning projects and technologies such as: 
