@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftecnicl0047.quora.com%2FHello-friends-is-a-my-new-Manch-Technology-Wikipedia-business-Bollywood-How-to-start-a-you-are-comment-is-content&psig=AOvVaw3G6L3vEth5c3iYe6TwlYtm&ust=1632030140545000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjeyqDoh_MCFQAAAAAdAAAAABAv">
+  <img width="600" height="400" src="https://www.google.com/search?q=animated+guy+with+laptop+gif&tbm=isch&ved=2ahUKEwj_1ueR6IfzAhVroksFHXehCb8Q2-cCegQIABAA&oq=animated+guy+with+laptop+gif&gs_lcp=CgNpbWcQA1DwRFinT2DhUmgAcAB4AIABxAGIAfELkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=MHxFYf_-GevErtoP98Km-As&bih=722&biw=1536&rlz=1C1GCEA_enIN959IN959#imgrc=YLwz35VwGc7e3M&imgdii=mJJWwW1ORKrmtM">
 </p>
    
 Hi, I'm Shubham Khule 👋 
