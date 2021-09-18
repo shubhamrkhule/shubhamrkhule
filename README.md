@@ -1,7 +1,7 @@
-
-  
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/66060574/133878054-a014db6f-12a9-4e8c-a4ef-c42d85fb3a39.gif)
-
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/66060574/133878054-a014db6f-12a9-4e8c-a4ef-c42d85fb3a39.gif">
+</p>
+   
 Hi, I'm Shubham Khule 👋 
 
 Welcome to my github account. I'm a motivated & result driven Bachelor of Computer Applications, enthusiastic about technology & Computer Science. I am looking further to enhance my professional career in a challenging work environment to utilize my knowledge and skills for organizational growth. I am passionate about Data Science & Big Data, new trends & ready to acquire software based knowledge.
