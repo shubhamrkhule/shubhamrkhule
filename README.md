@@ -20,7 +20,7 @@ Connect with me on LinkedIn at: https://www.linkedin.com/in/shubhamrkhule/
 I enjoy meeting new people and hearing new perspectives. I'm a constant learner & strive for progressive development.
 
 
-![Boy-Working-From-Home](https://user-images.githubusercontent.com/66060574/133877895-ccbe85b8-428f-463a-95d5-fa9ec6d906c1.gif)
+![Boy-Working-From-Home](https://user-images.githubusercontent.com/66060574/133877895-ccbe85b8-428f-463a-95d5-fa9ec6d906c1.gif width="250" height="250")
 
 - 🌱 I’m currently learning a post-graduate degree in Data Science & Big Data Analytics at MIT, Pune.
 - 👯 I’m looking to collaborate on a beginner level projects & hackathons.
