@@ -1,3 +1,7 @@
+
+  
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/66060574/133878054-a014db6f-12a9-4e8c-a4ef-c42d85fb3a39.gif)
+
 Hi, I'm Shubham Khule 👋 
 
 Welcome to my github account. I'm a motivated & result driven Bachelor of Computer Applications, enthusiastic about technology & Computer Science. I am looking further to enhance my professional career in a challenging work environment to utilize my knowledge and skills for organizational growth. I am passionate about Data Science & Big Data, new trends & ready to acquire software based knowledge.
@@ -18,10 +22,6 @@ Follow me on instagram to know more at: https://www.instagram.com/shubham.khule/
 Connect with me on LinkedIn at: https://www.linkedin.com/in/shubhamrkhule/
 
 I enjoy meeting new people and hearing new perspectives. I'm a constant learner & strive for progressive development.
-
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/66060574/133878054-a014db6f-12a9-4e8c-a4ef-c42d85fb3a39.gif)
-
 
 - 🌱 I’m currently learning a post-graduate degree in Data Science & Big Data Analytics at MIT, Pune.
 - 👯 I’m looking to collaborate on a beginner level projects & hackathons.
