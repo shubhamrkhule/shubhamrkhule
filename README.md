@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="500" src="https://user-images.githubusercontent.com/66060574/133878054-a014db6f-12a9-4e8c-a4ef-c42d85fb3a39.gif">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/66060574/133878054-a014db6f-12a9-4e8c-a4ef-c42d85fb3a39.gif">
 </p>
    
 Hi, I'm Shubham Khule 👋 
