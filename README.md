@@ -27,3 +27,5 @@ I enjoy meeting new people and hearing new perspectives. I'm a constant learner 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm unstoppable :)
 
+![image](https://user-images.githubusercontent.com/66060574/133877488-5ad8e472-5dee-4f42-94d6-de536d5e2740.png)
+
