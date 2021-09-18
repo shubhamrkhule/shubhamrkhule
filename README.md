@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="400" src="https://user-images.githubusercontent.com/66060574/133878054-a014db6f-12a9-4e8c-a4ef-c42d85fb3a39.gif">
+  <img width="600" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftecnicl0047.quora.com%2FHello-friends-is-a-my-new-Manch-Technology-Wikipedia-business-Bollywood-How-to-start-a-you-are-comment-is-content&psig=AOvVaw3G6L3vEth5c3iYe6TwlYtm&ust=1632030140545000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjeyqDoh_MCFQAAAAAdAAAAABAv">
 </p>
    
 Hi, I'm Shubham Khule 👋 
